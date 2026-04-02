@@ -55,6 +55,7 @@
 				AA0000000000000000000034 /* Resources */,
 				AA0000000000000000000003 /* Products */,
 			);
+			path = DualShot;
 			sourceTree = "<group>";
 		};
 		AA0000000000000000000003 /* Products */ = {
