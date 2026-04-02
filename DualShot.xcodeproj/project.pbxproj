@@ -55,7 +55,6 @@
 				AA0000000000000000000034 /* Resources */,
 				AA0000000000000000000003 /* Products */,
 			);
-			path = DualShot;
 			sourceTree = "<group>";
 		};
 		AA0000000000000000000003 /* Products */ = {
@@ -72,8 +71,8 @@
 				AA0000000000000000000040 /* DualShotApp.swift */,
 				AA0000000000000000000041 /* ContentView.swift */,
 			);
-			path = App;
-			sourceTree = "<group>";
+			path = DualShot/App;
+			sourceTree = SOURCE_ROOT;
 		};
 		AA0000000000000000000031 /* Camera */ = {
 			isa = PBXGroup;
@@ -81,8 +80,8 @@
 				AA0000000000000000000042 /* CameraManager.swift */,
 				AA0000000000000000000043 /* DualVideoWriter.swift */,
 			);
-			path = Camera;
-			sourceTree = "<group>";
+			path = DualShot/Camera;
+			sourceTree = SOURCE_ROOT;
 		};
 		AA0000000000000000000032 /* Views */ = {
 			isa = PBXGroup;
@@ -92,16 +91,16 @@
 				AA0000000000000000000046 /* OnboardingView.swift */,
 				AA0000000000000000000047 /* SettingsView.swift */,
 			);
-			path = Views;
-			sourceTree = "<group>";
+			path = DualShot/Views;
+			sourceTree = SOURCE_ROOT;
 		};
 		AA0000000000000000000033 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				AA0000000000000000000048 /* RecordingSettings.swift */,
 			);
-			path = Models;
-			sourceTree = "<group>";
+			path = DualShot/Models;
+			sourceTree = SOURCE_ROOT;
 		};
 		AA0000000000000000000034 /* Resources */ = {
 			isa = PBXGroup;
@@ -109,8 +108,8 @@
 				AA0000000000000000000049 /* Assets.xcassets */,
 				AA000000000000000000004A /* Info.plist */,
 			);
-			path = Resources;
-			sourceTree = "<group>";
+			path = DualShot/Resources;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
